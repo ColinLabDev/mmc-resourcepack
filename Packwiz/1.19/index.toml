@@ -1,2 +1,5 @@
+hash-format = "sha256"
+
 [[files]]
 file = "resourcepacks/Compliance-32x-Java-Beta-20.zip"
+hash = "87B22F42D5BE73D2E26A9E911FE46467109B62F79C0261F43BDE6ED0AAC991A4"
