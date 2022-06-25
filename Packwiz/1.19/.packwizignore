@@ -1,1 +1,5 @@
-../1.16.5/.packwizignore
+packwiz
+Readme.md
+*.exe
+*.bat
+*.jar
