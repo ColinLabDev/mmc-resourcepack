@@ -1,0 +1,9 @@
+name = "Faithful-Java-32x"
+version = "beta-20"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+
+[versions]
+minecraft = "1.19"
