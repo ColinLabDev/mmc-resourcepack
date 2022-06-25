@@ -1,11 +1,11 @@
 name = "Faithful-Java-32x"
-version = "2.0"
+version = "3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3EF6A0B6E5AC8631D0B5FA0DCCFF0EE0720BC9542F02EBF96E25E00ED8E7B7D2"
+hash = "3299C2B9D791FBBC623835555F41F451DFAC8130553650535F4F29738513B987"
 
 [versions]
 minecraft = "1.19"
