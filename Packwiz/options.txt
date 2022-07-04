@@ -1,0 +1,1 @@
+resourcePacks:["vanilla","file/Faithful 32x - 1.19.zip"]

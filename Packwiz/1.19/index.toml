@@ -1,9 +1,0 @@
-hash-format = "sha256"
-
-[[files]]
-file = "resourcepacks/Faithful-Java-32x-1.19-Experimental.zip"
-hash = "8D41D73F351A1D5B596B3F880002D332CD77E4D0E9A2618D981B952DAC42527F"
-
-[[files]]
-file = "options.txt"
-hash = "F08F9210D24770A0BECA833846AC0373703F08CEF61485081505A9773EE00207"
