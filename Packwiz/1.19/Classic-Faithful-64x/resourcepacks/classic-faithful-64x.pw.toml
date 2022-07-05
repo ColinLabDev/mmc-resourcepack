@@ -1,0 +1,13 @@
+name = "Classic Faithful 64x"
+filename = "CF64-D8.4.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6431d57b865ae941685ef8ac154714c8c8a3a671"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3852010
+project-id = 414275

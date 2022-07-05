@@ -1,0 +1,1 @@
+resourcePacks:["vanilla","file/Classic Faithful 32x Jappa.zip"]

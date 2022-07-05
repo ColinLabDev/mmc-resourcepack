@@ -1,0 +1,13 @@
+name = "Classic Faithful 32x32"
+filename = "Classic Faithful 32x Jappa.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e9b84dbc381fefd2e132ad732d1e342350168ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3858289
+project-id = 561185

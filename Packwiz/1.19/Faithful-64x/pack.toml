@@ -1,0 +1,12 @@
+name = "Faithful64x.auto-update"
+author = "ColinLabDev"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7e3ed5ec3343d606280e615387ce1915a640cab46faab3e1b8361526d9fbd10e"
+
+[versions]
+minecraft = "1.19"

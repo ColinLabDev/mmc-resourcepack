@@ -1,0 +1,10 @@
+hash-format = "sha256"
+
+[[files]]
+file = "options.txt"
+hash = "ee1172cba17617f7556cb823bc56e3f13c85a4c2c94fd7130d2d4051a30e5f52"
+
+[[files]]
+file = "resourcepacks/classic-faithful-32x32.pw.toml"
+hash = "7c884f633a583b6aa8ce61f25304a5ab898553ea527f36a86a27fb4d4f8f1ecb"
+metafile = true

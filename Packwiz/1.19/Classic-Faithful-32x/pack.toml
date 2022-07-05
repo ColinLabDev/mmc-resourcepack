@@ -1,0 +1,12 @@
+name = "Classic Faithful 32x32"
+author = "ColinLabDev"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3705256c6056f4f0cc7c6d3de99e296f467aac57ea1dbfa526414871bf23ef89"
+
+[versions]
+minecraft = "1.19"
