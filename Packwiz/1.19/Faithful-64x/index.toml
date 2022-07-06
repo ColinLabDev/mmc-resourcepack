@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "options.txt"
-hash = "8466a8e65450370738c8995b7cf29fa6e37a8ea6e31d7e74f8c7a4494f8411ca"
+hash = "af55369f5eb15878696b84faee40e78f453508f68f8c7c69230a40e9c194c40d"
 
 [[files]]
 file = "resourcepacks/faithful-64x.pw.toml"
