@@ -3,4 +3,4 @@
 |--:|:--:|:--:|:--:|:--:|
 | 1.19 | [![GitHub issues](https://img.shields.io/github/v/release/ColinLabDev/mmc-resourcepack.svg?style=flat-square&label=download)](https://github.com/ColinLabDev/mmc-resourcepack/releases/download/1.0/Classic-Faithful-32x.zip) | [![GitHub issues](https://img.shields.io/github/v/release/ColinLabDev/mmc-resourcepack.svg?style=flat-square&label=download)](https://github.com/ColinLabDev/mmc-resourcepack/releases/download/1.0/Classic-Faithful-64x.zip) | [![GitHub issues](https://img.shields.io/github/v/release/ColinLabDev/mmc-resourcepack.svg?style=flat-square&label=download)](https://github.com/ColinLabDev/mmc-resourcepack/releases/download/1.0/Faithful-32x.zip) | [![GitHub issues](https://img.shields.io/github/v/release/ColinLabDev/mmc-resourcepack.svg?style=flat-square&label=download)](https://github.com/ColinLabDev/mmc-resourcepack/releases/download/1.0/Faithful-64x.zip) |
 #### Install
- - `Drag` or `Add Instance` the Download Version You Need to MultiMC Window
+ - `Drag` the Download Version You Need to MultiMC Window
